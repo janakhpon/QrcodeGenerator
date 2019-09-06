@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import { Grid, Card } from "@material-ui/core";
 import GetInput from './Components/Input';
+import Option from './Components/Options';
 import QRCode from 'qrcode.react';
 
 
